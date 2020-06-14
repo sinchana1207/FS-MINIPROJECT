@@ -3,6 +3,5 @@ This project is done using Spyder IDE for python programming language and tkinte
 
 SETUP
 1. Clone this project 
-2. Open the sinchanaminiproject.py
-3. Update path to u desired path 
+2. Open the sinchanaminiproject.py 
 4. Run the project
